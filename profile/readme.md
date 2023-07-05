@@ -1,4 +1,4 @@
-[![Bounce, Lugagge Storage, Package Acceptance](./banner.png)](https://usebounce.com/)
+[![Bounce, Lugagge Storage, Package Acceptance](https://github.com/Bounceapp/.github/blob/main/profile/banner.png?raw=true)](https://usebounce.com/)
 
 [Bounce](https://usebounce.com/) operates a platform that enables luggage storage and package acceptance all over the world. We are building the future Operating System for brick and mortar businesses helping them earn more money with their space while simultaneously building consumer products that users love.
 
