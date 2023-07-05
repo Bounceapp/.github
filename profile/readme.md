@@ -1,4 +1,4 @@
-[![Bounce, Lugagge Storage, Package Acceptance](https://ucarecdn.com/4d287a19-ed38-416c-8d4d-06a1492bcc4c/header.png)](https://usebounce.com/)
+[![Bounce, Lugagge Storage, Package Acceptance](./banner.png)](https://usebounce.com/)
 
 [Bounce](https://usebounce.com/) operates a platform that enables luggage storage and package acceptance all over the world. We are building the future Operating System for brick and mortar businesses helping them earn more money with their space while simultaneously building consumer products that users love.
 
